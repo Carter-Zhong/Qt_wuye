@@ -1,0 +1,36 @@
+<RCC>
+    <qresource prefix="/Qss">
+        <file>QSS/black.qss</file>
+        <file>QSS/blue.qss</file>
+        <file>QSS/brown.qss</file>
+        <file>QSS/darkgray.qss</file>
+        <file>QSS/darkGrey.qss</file>
+        <file>QSS/dev.qss</file>
+        <file>QSS/gray.qss</file>
+        <file>QSS/lightgray.qss</file>
+        <file>QSS/silvery.qss</file>
+        <file>QSS/style.qss</file>
+    </qresource>
+    <qresource prefix="/image">
+        <file>Image/add_bottom.png</file>
+        <file>Image/add_left.png</file>
+        <file>Image/add_right.png</file>
+        <file>Image/add_top.png</file>
+        <file>Image/btn_close.png</file>
+        <file>Image/btn_ok.png</file>
+        <file>Image/checkbox_checked.png</file>
+        <file>Image/checkbox_unchecked.png</file>
+        <file>Image/Font Awesome Cheatsheet.png</file>
+        <file>Image/fontawesome-webfont.ttf</file>
+        <file>Image/msg_error.png</file>
+        <file>Image/msg_info.png</file>
+        <file>Image/msg_question.png</file>
+        <file>Image/qt_zh_CN.qm</file>
+        <file>Image/radio_normal.png</file>
+        <file>Image/radio_selected.png</file>
+        <file>Image/d86481ada4b4011b.jpg</file>
+        <file>Image/fc268f6c42f35f03.jpg</file>
+        <file>Image/ff1befc3326b9d4c.jpg</file>
+        <file>Image/00.PNG</file>
+    </qresource>
+</RCC>
